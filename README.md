@@ -1,6 +1,6 @@
 # Rebucket
 
-A method for Clustering Duplicate Crash Reports based on Call stack Similarity
+A Method for Clustering Duplicate Crash Reports based on Call Stack Similarity
 
 # See
 - [Rebucket](https://www.microsoft.com/en-us/research/publication/rebucket-a-method-for-clustering-duplicate-crash-reports-based-on-call-stack-similarity/)
